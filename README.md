@@ -8,4 +8,7 @@ With two simple commands, you can be using this library interactively.
 
 ## Pull from DockerHub
 Alternatively, you can pull and run a docker image for this repo directly using:   
-`(sudo) docker run -it -p 8888:8888 jimbabwe/learning-library:latest`
+`(sudo) docker run -it -p 8888:8888 jimbabwe/learning-library:latest`   
+
+And to use persistent storage:
+`(sudo) docker run -d -v ./1_Linear_Regression:/1_Linear_Regression -p 8888:8888 jimbabwe/learning-library:latest`
