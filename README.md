@@ -8,4 +8,4 @@ With two simple commands, you can be using this library interactively.
 
 ## Pull from DockerHub
 Alternatively, you can pull and run a docker image for this repo directly using:   
-`docker run -it -p 8888:8888 jimbabwe/learning-library:latest`
+`(sudo) docker run -it -p 8888:8888 jimbabwe/learning-library:latest`
