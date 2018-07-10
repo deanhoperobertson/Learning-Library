@@ -1,4 +1,4 @@
-# Jupyter-Notebooks
+# Learning-Library
 Collection of Jupyter notebook tutorials.
 
 ## Use this repo with repo2docker:
